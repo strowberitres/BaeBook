@@ -29,5 +29,5 @@ http://localhost/BaeBook
 
 Developers: 
 
-Angel Mae Endoma
+Angel Mae Endoma,
 Danea Ellery Zerudo
