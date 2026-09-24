@@ -26,3 +26,8 @@ Place the project folder in htdocs
 Start Apache and MySQL
 Open your browser and go to:
 http://localhost/BaeBook
+
+Developers: 
+
+Angel Mae Endoma
+Danea Ellery Zerudo
